@@ -1,0 +1,3 @@
+curl https://bootstrap.pypa.io/ez_setup.py -o - |sudo python
+sudo easy_install appscript
+sudo easy_install eyeD3
